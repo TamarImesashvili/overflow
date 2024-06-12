@@ -1,0 +1,8 @@
+div {
+    width: 230px;
+    height: 297px;
+    margin-top: 9px;
+    margin-left: 10px;
+    border: 2px solid rgba(244, 0, 0, 1);
+    overflow-x: scroll;
+}
